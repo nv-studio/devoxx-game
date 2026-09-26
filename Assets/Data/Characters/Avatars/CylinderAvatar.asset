@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52ed9a2cc81224916ab13b43ab2d4082, type: 3}
+  m_Name: CylinderAvatar
+  m_EditorClassIdentifier: Assembly-CSharp::DevoxxGame.Characters.Configuration.AvatarConfig
+  <DisplayName>k__BackingField: Cylinder Avatar
+  <DeveloperNotes>k__BackingField: 
+  <ModelPrefab>k__BackingField: {fileID: 4167990632452538964, guid: 6392bf911bf944d1fa39974dcb04db36, type: 3}
+  <ModelLocalPosition>k__BackingField: {x: 0, y: 0, z: 0}
+  <ModelScale>k__BackingField: 1
+  <ColliderHeight>k__BackingField: 2
+  <ColliderRadius>k__BackingField: 0.5
+  <CameraTargetHeight>k__BackingField: 1.5
