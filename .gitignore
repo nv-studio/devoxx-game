@@ -121,3 +121,6 @@ InitTestScene*.unity*
 
 # Generated comparison/turntable renders (regenerable from the scripts)
 ArtSource/*/renders/
+
+# Unity AI Toolkit generation cache (regenerated on demand, never referenced by the project)
+/GeneratedAssets/
