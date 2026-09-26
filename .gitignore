@@ -118,3 +118,6 @@ InitTestScene*.unity*
 
 # Worktrees
 .worktrees/
+
+# Generated comparison/turntable renders (regenerable from the scripts)
+ArtSource/*/renders/

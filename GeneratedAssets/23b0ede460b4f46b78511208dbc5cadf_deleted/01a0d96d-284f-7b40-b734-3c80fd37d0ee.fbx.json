@@ -1,0 +1,23 @@
+{
+    "asset": "23b0ede460b4f46b78511208dbc5cadf",
+    "fileName": "01a0d96d-284f-7b40-b734-3c80fd37d0ee.fbx",
+    "prompt": "A short stout rounded robot. Very large spherical orange belly with a small circular emblem on the chest. Dark blue-grey armoured helmet-like head with two small round lenses on top and a thin antenna. Short stubby armoured arms hanging at the sides ending in small dark claw hands. Short thick legs with wide rounded boots. Weathered matte paint, scuffed orange over dark blue-grey metal. Chunky hard-surface robot forms.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p2-multiview-quad",
+    "modelName": "Tripo P2 (Multi-View, Quad Mesh)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "17dce8b5c607b4087ba6d94f335c13de",
+    "multiviewBackGuid": "107a007392c62474889250cffd8ac013",
+    "multiviewLeftGuid": "3cc4bbbc0f8114564acf811052162fe0",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

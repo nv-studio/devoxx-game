@@ -1,0 +1,23 @@
+{
+    "asset": "a4a04bcf94bdb4f57beef2320f166b5b",
+    "fileName": "01a0d5ac-6f89-7f62-b8c7-b905ffbec263.fbx",
+    "prompt": "A small stylized cartoon robot mascot. Wide flattened ellipsoid head with a large dark glossy visor across the front face, two small rounded ears on top, and a circular silver-bezelled lens on each side of the head. Short dark neck. Smooth teardrop body, widest near the base. Two long tapered arms hanging at the sides ending in small dark clusters, joined at the shoulders by thin dark rods. Two short legs with small rounded feet. Glossy orange shell with white panel bands on the limbs, white bezels, dark visor, dark joints. Clean hard-surface robot forms, smooth glossy plastic.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p2-multiview-quad",
+    "modelName": "Tripo P2 (Multi-View, Quad Mesh)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "57268f834c5b94f3d92d81f20060e816",
+    "multiviewBackGuid": "a53fd8757764c49d3a07fa449a350197",
+    "multiviewLeftGuid": "ef508093077fe48a9adef3e8810547fa",
+    "multiviewRightGuid": "2e4c63e1a9c4947b4aa45a37b26d95fe",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}
