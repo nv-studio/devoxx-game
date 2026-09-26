@@ -1,0 +1,23 @@
+{
+    "asset": "61d09d7c123314e11b772c61ff3ece76",
+    "fileName": "01a0d96b-aa7a-7b1f-8f94-64dd7c733a65.fbx",
+    "prompt": "A tall slender humanoid robot droid standing upright. Elongated domed head with a narrow recessed face plate and two small glowing yellow eyes. Long thin articulated arms with exposed cylindrical elbow joints and slim three-fingered hands. Narrow torso with layered chest plating and a circular emblem on one shoulder. Long thin legs with exposed knee and ankle joints and flat feet. Weathered dark grey-blue metal with scuffed bronze and burnt orange accents. Hard-surface mechanical forms, matte worn finish.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p2-multiview-quad",
+    "modelName": "Tripo P2 (Multi-View, Quad Mesh)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "ca00bf63e6f264e5496103ebf25cbb2a",
+    "multiviewBackGuid": "c1a71ced394f94e3997d99ee5a6c872b",
+    "multiviewLeftGuid": "25bc1d74cf25d44f98f0011d9efb4e12",
+    "multiviewRightGuid": "4264a3d75df5e4030bec30eb85ba9185",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

@@ -1,0 +1,23 @@
+{
+  "asset": "8d35e0ea5794b4545b5b5957c080e070",
+  "fileName": "01a0d577-95a4-7eac-8fa6-8902b0e16611.fbx",
+  "prompt": "Create a detailed 3D robot from the attached model sheet. Match its proportions, silhouette, colors, materials and visible mechanical details across the different views. Articulate the head, shoulders, elbows, wrists, fingers, hips, knees and ankles. Animate idle motion, walking and running with planted feet, coordinated arm swing and smooth transitions.",
+  "negativePrompt": "",
+  "model": "model3d-tripo-p1",
+  "modelName": "Tripo P1",
+  "customSeed": -1,
+  "w3CTraceId": "",
+  "feedback": -1,
+  "refinementMode": "Generation",
+  "promptImageReferenceGuid": "af0244272a999474abc0595d632b796e",
+  "modelReferenceGuid": "",
+  "multiviewFrontGuid": "",
+  "multiviewBackGuid": "",
+  "multiviewLeftGuid": "",
+  "multiviewRightGuid": "",
+  "multiviewTopGuid": "",
+  "multiviewBottomGuid": "",
+  "multiviewLeftFrontGuid": "",
+  "multiviewRightFrontGuid": "",
+  "faceLimit": 10000
+}
